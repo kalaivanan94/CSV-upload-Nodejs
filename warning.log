@@ -1,0 +1,6 @@
+{"message":"Exception during mysql connection :- connect ECONNREFUSED 127.0.0.1:3306","level":"warning","label":"V1","timestamp":"2022-10-22T12:52:49.326Z"}
+{"message":"Exception during mysql connection :- connect ECONNREFUSED 127.0.0.1:3306","level":"warning","label":"V1","timestamp":"2022-10-22T12:54:22.119Z"}
+{"message":"Exception during mysql connection :- connect ECONNREFUSED 127.0.0.1:3306","level":"warning","label":"V1","timestamp":"2022-10-22T12:55:06.554Z"}
+{"message":"Exception during mysql connection :- connect ECONNREFUSED 127.0.0.1:3306","level":"warning","label":"V1","timestamp":"2022-10-22T12:57:16.518Z"}
+{"message":"Exception during mysql connection :- connect ECONNREFUSED 127.0.0.1:3306","level":"warning","label":"V1","timestamp":"2022-10-22T12:57:21.199Z"}
+{"message":"Exception during mysql connection :- connect ECONNREFUSED 127.0.0.1:3306","level":"warning","label":"V1","timestamp":"2022-10-22T13:27:11.436Z"}
